@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+client/dist/bundle.js
+config/github.config.js
+config/mongo_atlas.config.js
